@@ -1,13 +1,60 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* IMPORTS */
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;500;700&display=swap");
+
+/* VARIABLES */
+
+:root {
+  --ff-primary: "Kumbh Sans";
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* GLOBAL STYLES */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: var(--ff-primary);
+}
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+/* h1 {
+	font-size: 2rem;
+}
+h2 {
+	font-size: 1.25rem;
+}
+h3 {
+	font-size: 1rem;
+}
+h4 {
+	font-size: 0.7rem;
+}
+p {
+	font-size: 16px;
+}
+h1,
+h2,
+h3,
+h4 {
+	text-transform: capitalize;
+} */
+/* .tab-indicator {
+      margin-top: 1.3rem;
+      position: relative;
+      height: 7px;
+      width: calc(70% / 3);
+      border-radius: 5px;
+      background-color: #f2994a;
+    } */
+
+.active-form {
+  display: block;
+}
+.inactive {
+  display: none;
 }
