@@ -23,6 +23,7 @@ const Final = () => {
         </p>
 
         <div>
+          {/* eslint-disable-next-line */}
           <a href="#" className="ret-link" onClick={() => advance(1)}>
             Return Home
           </a>

@@ -14,7 +14,9 @@ const Billing = () => {
   const { advance, activePage } = useGlobalContext();
   const options = ["Visa", "Mastercard"];
   const [cardName, setCardName] = useState("");
+  // eslint-disable-next-line
   const [creditCardNo, setCreditCardNo] = useState("");
+  // eslint-disable-next-line
   const [creditCardExpiryDate, setCreditCardExpiry] = useState("");
   const [creditCardType, setcreditCardType] = useState(options[0]);
 
