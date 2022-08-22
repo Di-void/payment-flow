@@ -12,7 +12,6 @@ This is a solution to the [FIRST TASK(TASK 1)](https://docs.google.com/document/
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
-    - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
   - [Author](#author)
 
@@ -44,12 +43,6 @@ Candidates should implement the design flow in the [link](<​​https://www.fig
 - CSS Grid
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
