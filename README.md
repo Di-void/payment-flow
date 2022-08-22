@@ -24,15 +24,15 @@ Candidates should implement the design flow in the [link](<​​https://www.fig
 
 ### Screenshot
 
-![PERSONAL INFO](./personal.png)
-![BILLING INFO](./payment.png)
-![CONFIRM PAYMENT](./purchase.png)
-![PURCHASE COMPLETE](./complete.png)
+![PERSONAL INFO](./src/personal.png)
+![BILLING INFO](./src/payment.png)
+![CONFIRM PAYMENT](./src/purchase.png)
+![PURCHASE COMPLETE](./src/complete.png)
 
 ### Links
 
 - Solution URL: [My Solution](https://github.com/Multimarix/payment-flow)
-- Live Site URL: [Live Site Demo](https://your-live-site-url.com)
+- Live Site URL: [Live Site Demo](https://payment-flow-task.netlify.app/)
 
 ## My process
 
